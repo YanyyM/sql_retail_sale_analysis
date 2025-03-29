@@ -1,1 +1,0 @@
-# sql_retail_sale_analysis
